@@ -1,0 +1,13 @@
+- Crie um repositório  com um README.md no seu github zup e clone para sua máquina
+- Após criar o repositório, já com um README.md, e cloná-lo crie uma nova branch;.
+- Adicione informações relacionadas ao programa Catalisa no README;
+- Crie um arquivo contando um pouco sobre você;
+- Lembre-se de fazer commits com frequência;
+- Depois de alguns commits, sempre faça um push;
+- Abra um pull request ;
+- Confira as alterações no GitHub;
+- Realize o  no GitHub;
+- Dê um  pull das alterações “mergeadas”.
+- Agora faça um fork de algum repositório existente do github.
+
+- Para entrega, anexe aqui o link dos dois repositórios criados.
