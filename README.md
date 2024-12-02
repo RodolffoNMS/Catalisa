@@ -27,4 +27,4 @@ Bem-vindo ao meu perfil! Sou apaixonado por tecnologia, desenvolvimento de softw
 
 ---
 
-Obrigado por visitar meu perfil! 😊
+Obrigado por visitar meu perfil!
