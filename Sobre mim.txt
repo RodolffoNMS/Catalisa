@@ -1,0 +1,7 @@
+De instalador de câmeras a aspirante a desenvolvedor, minha jornada é uma prova de que nunca é tarde para recomeçar. Meu nome é Rodolffo Souza, e estou em transição de carreira para a área de programação. Antes, eu era o cara que instalava câmeras, alarmes, arrumava impressoras e formatava computadores (certificado pela Intelbras, porque sou chique). Mas decidi trocar os cabos pelos códigos e, aos 32 anos, encarei o desafio de um vestibular para Sistemas de Informação.
+
+Hoje, estou mergulhado em Java, SQL, Spring, C++, aprendendo a criar APS, interfaces como lidar com bancos de dados robustos. Atualmente, curso Sistemas de Informação na UFU e participo do programa Catalisa 2024 da Zup, onde coloco a mão na massa com projetos reais e desafiadores.
+
+Antes disso, já fui professor de História, o que me ensinou a resolver problemas com criatividade e me comunicar, além de toda a carga de pesquisa e ensino que carrego. Hoje, aplico essas habilidades no mundo da tecnologia. E sim, eu sei o que foi o Tratado de Tordesilhas (hahaha). Hoje, estou aprendendo a transformar café em bugs (e, com sorte, em código).
+
+Se você quiser bater um papo sobre a Descoberta(ou invasão?) do Brasil enquanto debugamos um sistema, eu sou o cara! Meu objetivo? Conquistar o mundo... ou pelo menos um emprego legal(Na Zup) na área de TI. Se você acredita que paixão e aprendizado são a base para grandes resultados, vamos construir algo incrível juntos!
